@@ -1,3 +1,4 @@
+#8. Bunker
 categories = {category: [] for category in input().split(", ")}
  
 quantity = 0

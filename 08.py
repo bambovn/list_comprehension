@@ -1,3 +1,4 @@
+#8. Heroes Inventory
 heroes = {hero: [] for hero in input().split(", ")}
  
 command = input()

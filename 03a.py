@@ -1,3 +1,4 @@
+#3. Capitals
 countries = input().split(", ")
 capitals = input().split(", ")
  

@@ -1,3 +1,4 @@
+#3. Capitals
 cities = input().split(', ')
 capitals = input().split(', ')
 

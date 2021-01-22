@@ -1,3 +1,4 @@
+#6. Matrix of Palindromes
 def ascii_to_char(row):
     return [(chr(97 + row) + chr(97 + row + col) + chr(97 + row)) for col in range(0, columns)]
  

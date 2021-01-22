@@ -1,3 +1,4 @@
+#Flatten Lists
 data = input().split("|")[::-1]
 #data.reverse()
  
